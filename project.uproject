@@ -12,6 +12,10 @@
 	],
 	"Plugins": [
 		{
+			"Name": "MegascansPlugin",
+			"Enabled": false
+		},
+		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true,
 			"TargetAllowList": [
